@@ -3,7 +3,7 @@ const codeloccol = {
   legs: 4,  
   tails: 1,   
   friends: "['Codeloccol Campers']", };  
-  codeloccol.nam = "Happy coder"
+  codeloccol.name = "Happy coder"
   function Codeloccol() {
     console.log("name: Happy coder,")
     console.log("legs: 4,")
