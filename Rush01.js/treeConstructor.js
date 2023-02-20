@@ -1,6 +1,6 @@
 let strArr = ["(1,2)", "(2,4)", "(7,2)"];
 
-function TreeConstructor(strArr) {
+function treeConstructor(strArr) {
 
   let parents = {};
 
